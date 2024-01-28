@@ -663,3 +663,8 @@ select:not([multiple]) {
 .tm-paging-col{
     justify-content: center;
 }
+.termek{
+    max-height: 250px;
+    image-rendering: optimizeQuality;
+    width:min-content;
+}
