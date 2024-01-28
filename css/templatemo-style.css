@@ -657,3 +657,9 @@ select:not([multiple]) {
 
     .tm-social-links li { margin-right: 3px; }
 }
+.tm-btn-next , .tm-btn-prev{
+    width: fit-content;
+}
+.tm-paging-col{
+    justify-content: center;
+}
